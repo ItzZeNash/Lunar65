@@ -8,6 +8,14 @@ Images of Schem And PCB
 
 # Build Guide
 
+<img width="1765" height="654" alt="image" src="https://github.com/user-attachments/assets/4b285092-a12e-4d00-bdb2-312ea79da133" />
+<img width="1614" height="752" alt="image" src="https://github.com/user-attachments/assets/951decd2-0d37-48b0-8c8e-f54a25c49f66" />
+<img width="1919" height="1061" alt="image" src="https://github.com/user-attachments/assets/7ed1eef6-9daa-4618-bfbb-59a51b2a8e98" />
+<img width="1916" height="1059" alt="image" src="https://github.com/user-attachments/assets/67fe9f24-1db8-458c-9689-3d9e6e4f8d5e" />
+<img width="1660" height="965" alt="image" src="https://github.com/user-attachments/assets/d2c90c0e-c5b2-4b98-9bea-4228d272e854" />
+<img width="1650" height="936" alt="image" src="https://github.com/user-attachments/assets/9e557d1b-92a3-4db4-a7e1-bc518fd959e8" />
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/0ee8bea3-8ffa-4580-b148-cd1bfaa531c8" />
+<img width="1763" height="922" alt="image" src="https://github.com/user-attachments/assets/160d2bda-419c-41cc-8635-b9f411043425" />
 
 
 | No | Name | Spec | Quantity |
